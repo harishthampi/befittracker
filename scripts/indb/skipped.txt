@@ -1,0 +1,36 @@
+INDB rows skipped by build_seed.py (34):
+
+ASC079	Clear tomato soup (Tamatar ka soup)	calories 80 vs macros 147 per 100 g
+ASC080	Lentil soup	calories 31 vs macros 165 per 100 g
+ASC081	Chicken consomme (Clear chicken soup)	calories 48 vs macros 162 per 100 g
+ASC082	Cream of tomato soup	calories 98 vs macros 155 per 100 g
+ASC083	Cream of green peas soup	calories 128 vs macros 194 per 100 g
+ASC084	Cream of spinach soup	calories 101 vs macros 158 per 100 g
+ASC085	Cream of mixed vegetable soup	calories 60 vs macros 133 per 100 g
+ASC086	Cream of mushroom soup	calories 117 vs macros 184 per 100 g
+ASC087	Chicken sweet corn soup	calories 28 vs macros 179 per 100 g
+ASC088	Minestrone soup	calories 43 vs macros 156 per 100 g
+ASC089	Egg drop soup	calories 27 vs macros 179 per 100 g
+ASC091	French onion soup	calories 56 vs macros 194 per 100 g
+ASC093	Talaumein soup	calories 36 vs macros 176 per 100 g
+ASC095	Cold summer garden soup	calories 49 vs macros 175 per 100 g
+BFP065	Meat consomme (with mutton)	calories 30 vs macros 186 per 100 g
+BFP066	Consomme au julienne	calories 28 vs macros 155 per 100 g
+BFP067	Consomme au vermicelli	calories 30 vs macros 185 per 100 g
+BFP072	Green pea soup (Matar ka soup)	calories 40 vs macros 180 per 100 g
+BFP073	Spinach soup (Palak ka soup)	calories 33 vs macros 187 per 100 g
+BFP074	Mixed vegetable soup	calories 36 vs macros 153 per 100 g
+BFP075	Cheese soup	calories 41 vs macros 214 per 100 g
+BFP076	Mulligatawny soup	calories 54 vs macros 203 per 100 g
+BFP079	Cream of carrot soup	calories 60 vs macros 171 per 100 g
+BFP080	Cream of broccoli soup	calories 56 vs macros 169 per 100 g
+BFP082	Cream of potato soup	calories 60 vs macros 168 per 100 g
+BFP087	Almond soup (Badam ka soup)	calories 79 vs macros 181 per 100 g
+BFP127	Minced meat pancake (with chicken)	calories 116 vs macros 176 per 100 g
+BFP142	Chicken pulao	calories 108 vs macros 149 per 100 g
+BFP155	Spaghetti bolognese	calories 97 vs macros 165 per 100 g
+OSR135	Curried Cauliflower soup	calories 37 vs macros 132 per 100 g
+OSR136	Millet soup	calories 56 vs macros 197 per 100 g
+OSR154	Classic seasoned black beans	calories 29 vs macros 144 per 100 g
+ASC078	Brown sauce	calories 109 vs macros 286 per 100 g
+OSR082	Bengal 5 Spice Blend (Panch Phoran)	calories 290 vs macros 389 per 100 g
